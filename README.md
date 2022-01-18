@@ -1,4 +1,12 @@
 # LNM Margin Safety
+
+Uses: https://github.com/ln-markets/api-python
+
+```
+pip install requests
+pip install ln-markets
+```
+
 Adds margin to an LNM position until it is within safety limits.
 
 You must ensure you have enough balance to cover margin additions within your LMN account first before running.
