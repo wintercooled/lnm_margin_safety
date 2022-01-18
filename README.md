@@ -1,5 +1,5 @@
 # LNM Margin Safety
-Adds margin to an LNM position until it is within safety limits
+Adds margin to an LNM position until it is within safety limits.
 
 You must ensure you have enough balance to cover margin additions within your LMN account first before running.
 
