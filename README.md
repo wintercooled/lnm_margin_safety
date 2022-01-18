@@ -23,6 +23,13 @@ Before running amend:
 
 `PASSPHRASE`
 
+
+To run:
+
+```
+python lnm_margin_safety.py
+```
+
 Example:
 
 If the price (bid) is at $40000 and your open long position margin calls at $39000 and
